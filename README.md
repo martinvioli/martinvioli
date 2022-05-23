@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
-<h3 align="center">JS Full Stack Developer in permanent progress! 💛</h3>
+<h3 align="center">JS Full Stack Developer in a permanent progress! 💛</h3>
 
 - 🌱 I’m currently learning **React-Native**
 
