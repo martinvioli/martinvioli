@@ -1,4 +1,4 @@
-<img align="center" src="https://media-exp1.licdn.com/dms/image/C4D16AQG6y9O6g4vaNw/profile-displaybackgroundimage-shrink_200_800/0/1653314466297?e=1658966400&v=beta&t=Mh07TYYIaD6SzLjRt8d0xismpMNfI9FgJDYmpk2qAn8" alt="martinvioli" />
+<p align="center"><img align="center" src="https://media-exp1.licdn.com/dms/image/C4D16AQG6y9O6g4vaNw/profile-displaybackgroundimage-shrink_200_800/0/1653314466297?e=1658966400&v=beta&t=Mh07TYYIaD6SzLjRt8d0xismpMNfI9FgJDYmpk2qAn8" alt="martinvioli" /><p>
 
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">JavaScript Full Stack Developer in a permanent progress! 💛</h3>
