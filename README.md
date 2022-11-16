@@ -5,8 +5,6 @@
 
 - 🙍‍♂️ I am an active person who constantly seeks to improve. I believe that knowledge is never enough, you can always learn something new. I am always looking for challenges and innovative experiences.
 
-- 🌱 I’m currently learning **React-Native**
-
 - 👨‍💻 All of my projects are available at [https://martinvioli.vercel.app/](https://martinvioli.vercel.app/)
 
 - 📫 How to reach me **martinvioli29@gmail.com**
